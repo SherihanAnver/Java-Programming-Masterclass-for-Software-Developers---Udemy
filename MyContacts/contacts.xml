@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Grace</first_name>
+	<last_name>Amalen</last_name>
+	<phone_number>0779658477</phone_number>
+	<notes>Commentator</notes>
+</contact>
+<contact>
+	<first_name>Nasif</first_name>
+	<last_name>Mohamed Fahad</last_name>
+	<phone_number>0776625896</phone_number>
+	<notes>Friend</notes>
+</contact>
+<contact>
+	<first_name>Jane</first_name>
+	<last_name>Auston</last_name>
+	<phone_number>0779854786</phone_number>
+	<notes>Author</notes>
+</contact>
+</contacts>
